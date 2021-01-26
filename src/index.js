@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import App from './6.setState或setXXX異步的解決方式/App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
