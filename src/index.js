@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import './index.css'
-import App from './16.以props值作為初始化值-利用父母元件的state/App'
+import App from './34.待辦事項-拆解修改TodoAddForm/App'
 import reportWebVitals from './reportWebVitals'
 
 ReactDOM.render(
