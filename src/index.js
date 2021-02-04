@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import './index.css'
-import App from './34.待辦事項-拆解修改TodoAddForm/App'
+import './36.圖定上方navbar與釘住footer/styles/lydia.scss'
+import App from './36.圖定上方navbar與釘住footer/App'
 import reportWebVitals from './reportWebVitals'
 
 ReactDOM.render(
